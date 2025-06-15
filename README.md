@@ -63,3 +63,13 @@ This application was developed as part of a university coursework project. It pr
   - Row 1 → Rs. 12
   - Row 2 → Rs. 10
   - Row 3 → Rs. 8
+
+---
+
+## ▶️ How to Run
+
+### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/<your-username>/LondonLumiereCinema.git
+cd LondonLumiereCinema
