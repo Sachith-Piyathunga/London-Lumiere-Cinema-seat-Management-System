@@ -34,3 +34,11 @@ This application was developed as part of a university coursework project. It pr
 - 🧪 Validations for user inputs and seat selection
 
 ---
+
+## ⚙️ Technologies Used
+
+- 💻 **Java** (JDK 17)
+- 🖥️ Console-based interface
+- 📦 No third-party libraries used
+
+---
