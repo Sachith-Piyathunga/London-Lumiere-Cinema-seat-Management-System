@@ -79,3 +79,8 @@ cd LondonLumiereCinema
 ```
 javac *.java
 ```
+
+### Step 3: Run the Program
+```
+java CinemaManagement
+```
