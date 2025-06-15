@@ -52,3 +52,7 @@ This application was developed as part of a university coursework project. It pr
 ### 2. `Seat.java`
 - Represents each seat
 - Tracks availability using a simple integer flag (0 = free, 1 = sold)
+
+### 3. `Person.java`
+- Stores customer information: name, surname, and email
+- Provides methods to get and set customer data
