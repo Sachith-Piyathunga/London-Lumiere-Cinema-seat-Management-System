@@ -14,3 +14,9 @@ A terminal-based Java application that simulates a seat reservation system for t
 - [Sample Output](#sample-output)
 - [References](#references)
 - [Author](#author)
+
+## 📖 Project Overview
+
+This application was developed as part of a university coursework project. It provides basic functionality for a cinema ticketing system using core **Object-Oriented Programming (OOP)** concepts in Java. It is designed to demonstrate Java classes, encapsulation, arrays, and user interaction through the terminal.
+
+---
