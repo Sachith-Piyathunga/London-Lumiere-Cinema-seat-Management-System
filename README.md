@@ -47,6 +47,10 @@ This application was developed as part of a university coursework project. It pr
 
 ![image alt](https://github.com/Sachith-Piyathunga/London-Lumiere-Cinema-seat-Management-System/blob/024bb39bd91b134265cfbc7d0f324630d562dbc8/Image/1743077267659.jpg)
 
+### Seating Plan
+
+![image alt](https://github.com/Sachith-Piyathunga/London-Lumiere-Cinema-seat-Management-System/blob/0d112c793cc646d556b6553718d49c100e5a330b/Image/Screenshot_20250615_113142.png)
+
 ---
 
 ## 🧱 Class Breakdown
