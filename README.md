@@ -94,3 +94,10 @@ javac *.java
 ```
 java CinemaManagement
 ```
+
+### 📚 References
+
+- W3Schools Java Arrays
+- Java Input Validation
+- Java Sort Arrays
+- CodeProLK YouTube Java Tutorials
