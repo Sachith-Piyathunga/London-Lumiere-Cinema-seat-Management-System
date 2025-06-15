@@ -73,3 +73,9 @@ This application was developed as part of a university coursework project. It pr
 ```bash
 git clone https://github.com/<your-username>/LondonLumiereCinema.git
 cd LondonLumiereCinema
+```
+
+### Step 2: Compile the Java Files
+```
+javac *.java
+```
