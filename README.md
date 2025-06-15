@@ -43,6 +43,12 @@ This application was developed as part of a university coursework project. It pr
 
 ---
 
+### Main Screen
+
+![image alt](https://github.com/Sachith-Piyathunga/London-Lumiere-Cinema-seat-Management-System/blob/024bb39bd91b134265cfbc7d0f324630d562dbc8/Image/1743077267659.jpg)
+
+---
+
 ## 🧱 Class Breakdown
 
 ### 1. `CinemaManagement.java`
