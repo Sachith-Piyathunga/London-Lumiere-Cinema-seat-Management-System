@@ -42,3 +42,9 @@ This application was developed as part of a university coursework project. It pr
 - 📦 No third-party libraries used
 
 ---
+
+## 🧱 Class Breakdown
+
+### 1. `CinemaManagement.java`
+- Acts as the **main class** with the program’s menu and logic
+- Manages the array of seats and the list of tickets
