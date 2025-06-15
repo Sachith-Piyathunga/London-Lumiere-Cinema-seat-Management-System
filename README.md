@@ -56,3 +56,10 @@ This application was developed as part of a university coursework project. It pr
 ### 3. `Person.java`
 - Stores customer information: name, surname, and email
 - Provides methods to get and set customer data
+
+### 4. `Ticket.java`
+- Represents a ticket that combines seat, price, and associated `Person`
+- Automatically assigns price based on row:
+  - Row 1 → Rs. 12
+  - Row 2 → Rs. 10
+  - Row 3 → Rs. 8
